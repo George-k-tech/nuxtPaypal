@@ -5,8 +5,8 @@ const res = require('express/lib/response');
 
 paypal.configure({
 'mode': 'sandbox', //sandbox or live
-'client_id': 'ATjBFhL7WxnTGZSjINg4gcyutKn19fKuLWSRLCzeaZrgH0XTV_AIz6ccEJhwn5tC5Ri0TdyPKjQxOthz',
-'client_secret': 'EL9uuhjTrvHfa_qquRLBevRlHtNP8T6LwvLOoZ8Ua_I9s3mMDYZPA8lrCI1xot1N7ZudSNW0IENv0m22',
+'client_id': '',
+'client_secret': '',
 
 });
 
